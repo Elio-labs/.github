@@ -26,4 +26,4 @@ Once the project is officially deployed, these resources will be made available 
 ## Organization Management
 
 This organization and its repositories are currently owned and maintained by:
-* [**@Mitxh13**](https://github.com/Mitxh13)
+ [**@Mitxh13**](https://github.com/Mitxh13)
