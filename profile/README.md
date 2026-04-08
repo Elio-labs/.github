@@ -15,3 +15,8 @@ Elio is a developer-focused ecosystem that unifies multiple AI providers — Ant
 * **Multi-Modal Native:** Attach files and images directly from the terminal.
 
 ---
+
+## 🔒 Repository Visibility & Open Source
+
+If you are browsing our organization and it looks a bit empty, it is simply because our active repositories, internal documentation, and sensitive configurations are hidden from public view.<br>
+Once the project is officially deployed, these resources will be made available for public view.
