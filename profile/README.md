@@ -16,14 +16,14 @@ Elio is a developer-focused ecosystem that unifies multiple AI providers — Ant
 
 ---
 
-## 🔒 Repository Visibility & Open Source
+## Repository Visibility & Open Source
 
 If you are browsing our organization and it looks a bit empty, it is simply because our active repositories, internal documentation, and sensitive configurations are hidden from public view.<br>
 Once the project is officially deployed, these resources will be made available for public view.
 
 --- 
 
-## 👑 Organization Management
+## Organization Management
 
 This organization and its repositories are currently owned and maintained by:
 * [**@Mitxh13**](https://github.com/Mitxh13)
