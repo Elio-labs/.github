@@ -4,6 +4,8 @@
 
 Elio is a developer-focused ecosystem that unifies multiple AI providers — Anthropic Claude, Google Gemini, and OpenAI ChatGPT — into a single, consistent terminal interface. Instead of switching between browser tabs and managing multiple accounts, interact with the right AI model for each task directly from the command line.
 
+# Download Elio on your system [click here](https://elioai.pages.dev/)
+
 ---
 
 ## 🚀 Core Value Propositions
