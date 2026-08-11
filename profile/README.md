@@ -24,3 +24,5 @@ elio is a developer-focused ecosystem that integrates multiple industry-leading 
 
 This organization and its repositories are currently owned and maintained by:
 [**@Mitxh13**](https://github.com/Mitxh13)
+
+For any queries, email: [**kmitesh2006@gmail.com**](kmitesh2006@gmail.com)
