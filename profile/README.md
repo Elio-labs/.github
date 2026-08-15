@@ -6,8 +6,9 @@
 
 elio is a developer-focused ecosystem that integrates multiple industry-leading intelligence engines into a single, consistent native CLI. Instead of juggling browser tabs and fragmented workflows, you can interact with the optimal intelligence engine for every task directly from your terminal.
 
-### [Download elio for your system here](https://elioai.pages.dev/)
+**Global Stable version: v0.3.5**
 
+### [Download elio for your system here](https://elioai.pages.dev/)
 ---
 
 ## 🚀 Core Value Propositions
